@@ -12,7 +12,7 @@
 <!--ts-->
 * [x] 1- Introdução
 * [x] 2- Variáveis, Tipos e Estruturas de Dados
-* [ ] 3- Loops, Condicionais, Métodos e Funções
+* [x] 3- Loops, Condicionais, Métodos e Funções
 * [ ] 4- Tratamento de Arquivos, Módulos, Pacotes e Funções Built-in
 * [ ] 5- Orientação a Objetos
 * [ ] 6- Manipulando Banco de Dados em Python
